@@ -29,6 +29,18 @@ This project demonstrates database design, normalization, schema migration, fore
 
 ---
 
+The database consists of the following tables:
+
+- Employees
+- Clients
+- Projects
+- Assignments
+- Invoices
+- Payments
+- Roles_Lookup
+- InvoiceStatus_Lookup
+- PaymentMethods_Lookup
+
 ## Database Tables
 
 - Employees
