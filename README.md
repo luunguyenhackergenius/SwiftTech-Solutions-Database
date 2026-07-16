@@ -77,6 +77,45 @@ database/
 - T-SQL
 
 ---
+# Screenshots
+
+## Database Structure
+
+The SwiftTech_v2 database contains normalized tables for employees, projects, clients, invoices, and payments.
+
+![Database Structure](screenshots/database-structure.png)
+
+---
+
+## Database Tables
+
+Object Explorer showing all database tables and lookup tables created in SQL Server.
+
+![Database Tables](screenshots/database-tables.png)
+
+---
+
+## Employees Table
+
+Sample employee records used for project assignments.
+
+![Employees Table](screenshots/employees-data.png)
+
+---
+
+## Clients Table
+
+Client information used for project and invoice management.
+
+![Clients Table](screenshots/clients-data.png)
+
+---
+
+## Projects Table
+
+Project records demonstrating relationships between employees and clients.
+
+![Projects Table](screenshots/projects-data.png)
 
 ## Author
 
